@@ -22,7 +22,3 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=alizaminmammadli&" alt="alizaminmammadli" /></p>
 
-
-
-
-![snake gif](https://github.com/AlizaminMammadli/AlizaminMammadli/blob/output/github-contribution-grid-snake.gif)
