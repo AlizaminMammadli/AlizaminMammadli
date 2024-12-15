@@ -23,4 +23,4 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=alizaminmammadli&" alt="alizaminmammadli" /></p>
 
 
-![Snake animation](https://raw.githubusercontent.com/{AlizaminMammadli}/{AlizaminMammadli}/output/github-contribution-grid-snake-dark.svg)
+![Snake animation](https://raw.githubusercontent.com/{AlizaminMammadli}/output/github-contribution-grid-snake-dark.svg)
