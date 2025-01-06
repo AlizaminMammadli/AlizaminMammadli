@@ -1,6 +1,6 @@
 [![MasterHead](https://media.licdn.com/dms/image/v2/D4D16AQGVhI6Qv7IYGQ/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1727910784808?e=1740009600&v=beta&t=KM810xPv0ixyXmwv_KWlddjqWW7AhdxQF6wusIqQIzU)
 <h1 align="center">Hi 👋, I'm Alizamin Mammadli</h1>
-<h3 align="center">A passionate software backend developer and software test engineer from Azerbaijan</h3>
+<h3 align="center">A passionate Software Backend Developer and Software Test Engineer</h3>
 
 - 🔭 I’m currently working on **MERSYS LLC · Internship**
 
