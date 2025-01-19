@@ -6,7 +6,7 @@
 
 - 💬 Ask me about **Software Development and Testing**
 
-- 📫 How to reach me **elizaminmemmedli@gmail.com**
+- 📫 How to reach me **alizamin.work@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
